@@ -1,3 +1,16 @@
 .navbar-container {
-      max-width: none;
-  }
+    max-width: none;
+}
+
+#highscore-button {
+    background-color: #66a563;
+}
+
+#start-button {
+    background-color: #66a563;
+
+}
+
+body {
+    font-family: 'Be Vietnam', sans-serif;
+}

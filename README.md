@@ -3,7 +3,8 @@
 This Code Quiz used HTML, CSS, jQuery, and Bootstrap. 
 
 
-check it out here: https://apopp524.github.io/Code-Quiz/
+
+Check it out here: https://apopp524.github.io/Code-Quiz/
 
 
 ## Instructions

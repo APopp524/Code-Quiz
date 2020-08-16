@@ -1,4 +1,4 @@
-**Andrew's Code Quiz**
+## Andrew's Code Quiz
 
 This code quiz will start with a 50 seconds counting down. You will be presented with 5 questions and if you answer incorrectly then 10 seconds will be subtracted from the countdown clock. When the game is over then you can save your initials and score.
 
@@ -10,9 +10,21 @@ check it out here: https://apopp524.github.io/Code-Quiz/
 Once you have opened the site. In the search you can enter any city around the world and get an up to date weather forcast. 
 
 
-<img src="screen1.png" width="500"> | <img src="screen2.png" width="500"> | 
-<img src="screen3.png" width="500"> |
+
+<img src="screen1.png" width="500">
 
 
 
-![Untitled_ Aug 16, 2020 5_14 PM](https://user-images.githubusercontent.com/64044377/90345089-2684db00-dfe4-11ea-9721-ad67423cdb39.gif)
+
+<img src="screen2.png" width="500">
+
+
+
+
+<img src="screen3.png" width="500">
+
+
+
+
+
+![Untitled_ Aug 16, 2020 5_28 PM](https://user-images.githubusercontent.com/64044377/90345436-1e2d9f80-dfe6-11ea-8f7f-4cafd84fb595.gif)
